@@ -13,6 +13,13 @@ There is literally no gameplay right now, don't download it unless you want to p
 * A forward-slash (/) means "changed".
 **CHANGELOG**
 
+PA 0.02
+* Speed of player movement
+* Camera position
++ Sprinting
++ Walking slowly
++ Basic wall climbing (jump towards a wall and do not release the jump button)
+
 PA 0.01
 + Base shapes w/physics and different mass
 + A controllable player
