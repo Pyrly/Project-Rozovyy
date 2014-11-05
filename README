@@ -5,3 +5,14 @@ A survival game set in soviet Russia, just after WW2.
 
 This game is currently in early pre-pre-pre-pre-alpha, please bear with me as I get used to using Unity!
 There is literally no gameplay right now, don't download it unless you want to play with some cubes. :)
+
+**CHANGELOG**
+* A plus sign (+) means "added".
+* A minus sign (-) means "removed".
+* A star sign (*) means "fixed".
+* A forward-slash (/) means "changed".
+**CHANGELOG**
+
+PA 0.01
++ Base shapes w/physics and different mass
++ A controllable player
