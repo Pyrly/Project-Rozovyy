@@ -13,6 +13,13 @@ There is literally no gameplay right now, don't download it unless you want to p
 * A forward-slash (/) means "changed".
 **CHANGELOG**
 
+PA 0.03
+* Camera clipping
++ Mouse locking
++ An item
++ Ability to pick up items (Try the little grey stick on the red cube!)
+- Wall climbing
+
 PA 0.02
 * Speed of player movement
 * Camera position
