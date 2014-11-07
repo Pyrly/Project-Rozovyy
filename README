@@ -13,6 +13,13 @@ There is literally no gameplay right now, don't download it unless you want to p
 * A forward-slash (/) means "changed".
 **CHANGELOG**
 
+PA 0.04
+* Issue #2
+* Picking up items
++ Dropping items (Press the Use key after picking an item up)
+/ Issue #1 to wontfix
+/ Lowered mouse sensitivity
+
 PA 0.03
 * Camera clipping
 + Mouse locking
