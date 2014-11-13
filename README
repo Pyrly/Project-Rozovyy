@@ -1,10 +1,16 @@
 Project-Rozovyy
 ===============
 
-A survival game set in soviet Russia, just after WW2.
+A semi-random survival game set in soviet Russia after WW2.
+The game is currently in early pre-alpha development, please don't download it assuming you're going to get gameplay.
+The most you can do is run around and pick up some poorly-rotated sticks currently.
 
-This game is currently in early pre-pre-pre-pre-alpha, please bear with me as I get used to using Unity!
-There is literally no gameplay right now, don't download it unless you want to play with some cubes. :)
+Default controls:
+Move: WASD (Or arrow keys!)
+Walk: Hold CONTROL while moving
+Run: Hold SHIFT while moving
+Use: F
+Drop: Q
 
 **CHANGELOG**
 * A plus sign (+) means "added".
@@ -12,31 +18,44 @@ There is literally no gameplay right now, don't download it unless you want to p
 * A star sign (*) means "fixed".
 * A forward-slash (/) means "changed".
 **CHANGELOG**
-PA 0.05
+
+PA 0.06 --The "Big Fix" Update
+* Buildings not being a child of the _World object
+* Item not changing rotation when picked up
+* The mac version uploading correctly (Again, sorry!)
++ A button for dropping (Q by default)
++ The default controls in the README
+/ Made the finding of the player's "hands" much simpler, enjoy the extra 0.0001fps!
+/ Made the finding of the player's collider much simpler, enjoy the extra 0.0001fps!!11!!1!1
+/ Made the finding of the World's object much simpler, enjoy the extra 0.0001fps!!!!!1!!11!1!1111pacman
+- The Start void from PlayerController WHO'S LAUGHING NOW?!
+/ Cleaned up PlayerController more (I feel like I was retarded when I "cleaned" the code up)
+
+PA 0.05 --The "Clean" Update
 + New testing level
 / MAJOR code cleanup
 
-PA 0.04
+PA 0.04 --The "Handsy" Update
 * Issue #2
 * Picking up items
 + Dropping items (Press the Use key after picking an item up)
 / Issue #1 to wontfix
 / Lowered mouse sensitivity
 
-PA 0.03
+PA 0.03 --The "Ooooh shiny" Update
 * Camera clipping
 + Mouse locking
 + An item
 + Ability to pick up items (Try the little grey stick on the red cube!)
 - Wall climbing
 
-PA 0.02
+PA 0.02 --The Initial Update 2: Something Something Boogaloo
 * Speed of player movement
 * Camera position
 + Sprinting
 + Walking slowly
 + Basic wall climbing (jump towards a wall and do not release the jump button)
 
-PA 0.01
+PA 0.01 --The Initial Update
 + Base shapes w/physics and different mass
 + A controllable player
