@@ -36,10 +36,10 @@ PA 0.05 --The "Clean" Update
 / MAJOR code cleanup
 
 PA 0.04 --The "Handsy" Update
-* Issue #2
+* Issue #2 (https://github.com/Pyrly/Project-Rozovyy/issues/2)
 * Picking up items
 + Dropping items (Press the Use key after picking an item up)
-/ Issue #1 to wontfix
+/ Issue #1 to wontfix (https://github.com/Pyrly/Project-Rozovyy/issues/1)
 / Lowered mouse sensitivity
 
 PA 0.03 --The "Ooooh shiny" Update
